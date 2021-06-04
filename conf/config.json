@@ -1,0 +1,14 @@
+{
+    "token" : "BOTTOKEN",
+    "prefix" : "prefix",
+    "color" : "color",
+    "roledefult" : "Role1",
+    "rolemute" : "role2",
+    "roleadmin" : "role3",
+    "roleanime" : "role4",
+    "roleminecrafter" : "role5",
+    "rolecs" : "role6",
+    "rolefortnite" : "role7",
+    "messVerify" : "mess1",
+    "messRole" : "mess2"
+}
